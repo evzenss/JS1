@@ -1,0 +1,11 @@
+.my_button{
+    background-color: rgb(232, 205, 171);
+}
+
+button{
+    background-color: aqua; /*!important;*/
+}
+
+#p1{
+    background-color: blueviolet;
+}
