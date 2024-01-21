@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  background-color: #b8e6c6;
+}
+
+h1 {
+  margin-top: 150px;
+  color: cadetblue;
+}
+a {
+  text-decoration: none;
+}
+
+.my_button {
+  margin-top: 100px;
+}
+
+.my_button {
+  background-color: rgb(218, 150, 66);
+}
+
+button {
+  background-color: rgba(30, 160, 18, 0.413); /*!important;*/
+}
+
+#p1 {
+  background-color: blueviolet;
+}
+
+.small-image {
+  width: 50px;
+  height: auto;
+}

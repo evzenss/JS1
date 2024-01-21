@@ -1,11 +1,11 @@
 //import axios from "axios"
 //const axios = require("axios")
 
-function hello(){
-    console.log("Hello W!")
-    console.error("NO!")
-    console.warn("bad!")
-}
+// async function hello(){
+//     console.log("Hello W!")
+//     console.error("NO!")
+//     console.warn("bad!")
+// }
 
 async function getCharacters(){
     try {
@@ -17,4 +17,11 @@ async function getCharacters(){
     } catch (error) {
         console.error(error)    
     }
-}
+// }
+
+// async function PC(){
+    
+    
+//     const productContainer = document.getElementById('productContainer');
+//     productContainer.innerHTML = '<iframe src="https://www.alza.cz/macbook-air-13-m1-2020?dq=6243351" width="100%" height="100%"></iframe>';
+//   }
