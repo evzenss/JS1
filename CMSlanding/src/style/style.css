@@ -69,27 +69,6 @@ header {
   margin-left: 15px;
   position: relative;
 }
-/* 
-.menu_nav > nav > ul > li > a {
-  color: #fff;
-  position: relative;
-}
-
-.menu_nav > nav > ul > li > a::before {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 50%;
-  width: 0;
-  height: 2px;
-  border-color: rgb(106, 152, 89);
-  transition: width 0.3s ease, left 0.3s ease;
-  transform: translateX(-50%);
-}
-
-.menu_nav > nav > ul > li > a:hover::before {
-  width: 100%;
-} */
 
 .menu_nav > nav > ul > li > a {
   color: #fff;
